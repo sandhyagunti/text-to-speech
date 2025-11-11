@@ -1,0 +1,6 @@
+#streamlit run text_to_speech.py
+#pip install -r requirements.txt
+
+streamlit==1.39.0
+gTTS==2.5.3
+deep-translator==1.11.4
